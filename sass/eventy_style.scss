@@ -1,0 +1,46 @@
+$gray: grey;
+
+
+%extend_1 {
+	width: 600px;
+	margin: 0 auto;
+	margin-bottom: 40px;
+}
+
+
+#section5 {
+	position: relative;
+	top: 60px;
+	z-index: 2;
+	margin-top: 10px;
+	.container .pow {
+		font-size: 24px;
+		font-weight: bold;
+		color: $gray;
+		text-align: center;
+	}
+}
+#bestCarousel {
+	@extend %extend_1;
+}
+#bestCarousel1 {
+	@extend %extend_1;
+}
+#bestCarousel2 {
+	@extend %extend_1;
+}
+.panel-title p {
+	font-weight: bold;
+}
+.panel-body span {
+	font-weight: bold;
+	font-size: 14px;
+}
+.carousel-inner .item img {
+	margin: 0 auto;
+}
+.carousel-caption p {
+	font-weight: bold;
+	width: 330px;
+	padding-left: 20px;
+}

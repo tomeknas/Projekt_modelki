@@ -1,0 +1,41 @@
+#section5{
+	position: relative;
+	top:60px;
+	z-index: 2;
+	margin-top:10px;
+
+}
+
+.panel-title p{
+	font-weight: bold;
+	cursor:pointer;
+}
+
+#section5 .container .pow{
+	font-size: 24px;
+	font-weight: bold;
+	color:grey;
+	text-align: center;
+
+}
+
+.panel-body span{
+	font-weight: bold;
+	font-size: 14px;
+}
+
+#bestCarousel, #bestCarousel1, #bestCarousel2 {
+	width:600px;
+	margin:0 auto;
+	margin-bottom: 40px;
+}
+.carousel-inner .item img{
+	margin:0 auto;
+}
+
+.carousel-caption p{
+	font-weight: bold;
+	width:330px;
+	padding-left: 20px;
+	
+}

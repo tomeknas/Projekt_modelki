@@ -1,0 +1,125 @@
+[ 
+{
+		"name":"Anna", 
+		"sur":"Czartoryska",
+		"age": 20, 
+		"height":180,
+		"dim": "94, 60, 90",
+		"hair":"blond"	
+	},
+	{
+		"name":"Lucie", 
+		"sur":"Wilde",
+		"age": 23, 
+		"height":179,
+		"dim": "91, 57, 89",
+		"hair":"brunatne"	
+	},
+	 {
+	   "name": "Natalia",
+	   "sur":"Karpiuk",
+	   "age": 22,
+	   "height":178,
+	   "dim": " 92, 55, 87",
+	   "hair": " czarne"
+	 },
+	 {
+	   "name": "Irin",
+	   "sur":" Sludstkaya",
+	   "age": 25,
+	   "height":175,
+	   "dim": " 89, 62, 90",
+	   "hair": " ciemny blond"
+	 },
+	 {
+	   "name": "Agnieszka",
+	   "sur":"Klimasara",
+	   "age": 19,
+	   "height":181,
+	   "dim": " 87, 61, 88",
+	   "hair": " rude"
+	 },
+	 {
+	   "name": "Marysia",
+	   "sur":"Starosta",
+	   "age": 20,
+	   "height":174,
+	   "dim": " 86, 53, 83",
+	   "hair": " blond"
+	 },
+	 {
+	   "name": "Aleksandra",
+	   "sur":"Guz",
+	   "age": 23,
+	   "height":179,
+	   "dim": " 91, 57, 89",
+	   "hair": " ciemny blond"
+	 },
+	 {
+	   "name": "Marta",
+	   "sur":"Musiał",
+	   "age": 19,
+	   "height":181,
+	   "dim": " 87, 61, 88",
+	   "hair": " ciemny blond"
+	 },
+	 {
+	   "name": "Patrycja",
+	   "sur":"Jankiewicz",
+	   "age": 20,
+	   "height":179,
+	   "dim": "89,62, 90",
+	   "hair": " ciemne"
+	 },
+	 {
+	   "name": "Barbara",
+	   "sur":"Godzik",
+	   "age": 19,
+	   "height":175,
+	   "dim": " 84, 57, 92",
+	   "hair": " rude"
+	 },
+	 {
+	   "name": "Justyna",
+	   "sur":"Pichit",
+	   "age": 19,
+	   "height":180,
+	   "dim": " 87, 59, 88",
+	   "hair": " blond"
+	 },
+	 {
+	   "name": "Rose",
+	   "sur":"Bertrand",
+	   "age": 20,
+	   "height":180,
+	   "dim": " 92, 60, 90",
+	   "hair": " blond"
+	 },
+	 {
+	   "name": "Violetta",
+	   "sur":"Canias",
+	   "age": 18,
+	   "height":185,
+	   "dim": " 96, 65, 92",
+	   "hair": " blond"
+	 },
+	 {
+	   "name": "Izabela",
+	   "sur":"Beza",
+	   "age": 22,
+	   "height":175,
+	   "dim": " 89, 58, 89",
+	   "hair": " blond"
+	 },
+	 {
+	   "name": "Julia",
+	   "sur":"Brenette",
+	   "age": 19,
+	   "height":181,
+	   "dim": " 87, 55, 86",
+	   "hair": " ciemny blond "
+	 }
+	
+
+]
+

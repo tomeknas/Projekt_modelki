@@ -1,0 +1,34 @@
+
+#section3 {
+	position: relative;
+	top: 60px;
+	z-index: 2;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	.container {
+		margin-top: 20px;
+		span {
+			font-size: 24px;
+			font-weight: bold;
+			color: grey;
+		}
+	}
+}
+.mainform {
+	margin: 0 auto;
+	width: 600px;
+	p {
+		font-size: 14px;
+	}
+}
+#womandiv {
+	position: absolute;
+	visibility: hidden;
+}
+#mandiv {
+	position: absolute;
+	visibility: hidden;
+}
+.form-group p {
+	color: red;
+}
